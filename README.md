@@ -1,2 +1,2 @@
 # vector_ajs
-Paquete que manipula vectores, extrae muestra de una distribucion y genera identificadores universales
+Package that manipulates vectors and character arrays, draw samples from a distribution and generates universally unique identifiers.

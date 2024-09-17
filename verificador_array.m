@@ -36,7 +36,7 @@ function position = verificador_array(chain,vector_chain)
   endif
 
   #Checking whether the character array is in the list
-  limite = length(vector_chain);
+  limit = length(vector_chain);
   position = 0;
   if limit > 0
     for i = 1:limit
